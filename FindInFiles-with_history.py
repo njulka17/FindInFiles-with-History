@@ -1,3 +1,4 @@
+# Search for keywords inside files
 import threading
 from tkinter import ttk
 from tkinter import *
